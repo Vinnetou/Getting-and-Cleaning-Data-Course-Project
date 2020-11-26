@@ -27,5 +27,5 @@ Only the following files from the initial dataset are used:
   2. Extracts only the measurements on Mean and Standard Deviation for each measurement
   3. Add descriptive activity names to replace the activities IDs in the joined data set
   4. Appropriately name the data set with descriptive variable names
-  5. Create a second, independent tidy data set (from the data set in step 4) with the average of each variable for each activity and each subject
+  5. Create a second, independent tidy data set with the average of each variable for each activity and each subject
   6. `tidydata.txt` are the exported data after going through all the steps described above
