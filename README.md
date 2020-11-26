@@ -19,7 +19,7 @@ Only the following files from the initial dataset are used:
 
 - `run_analysis.R` has all the code of collecting and pre-processing the dataset to finish this project.
 
-- `tidydata.txt` is a text file output from `run_analysis.R`
+- `exportedtidydata.txt` is a text file output from `run_analysis.R`
 
 # How script works
   `run_analysis.R` performs 6 steps required as described in the course project definition:
@@ -28,4 +28,4 @@ Only the following files from the initial dataset are used:
   3. Add descriptive activity names to replace the activities IDs in the joined data set
   4. Appropriately name the data set with descriptive variable names
   5. Create a second, independent tidy data set with the average of each variable for each activity and each subject
-  6. `tidydata.txt` are the exported data after going through all the steps described above
+  6. `exportedtidydata.txt` are the exported data after going through all the steps described above
