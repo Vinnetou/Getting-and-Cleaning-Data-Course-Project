@@ -56,8 +56,4 @@ EndData <- TidyData %>%
 ## Export EndData as .txt file
 write.table(EndData, "EndData.txt", row.name=FALSE)
 
-<<<<<<< HEAD
 ## Complete
-=======
-## Complete
->>>>>>> 8782ce05466ee4984275073525ef214e9004ede1
